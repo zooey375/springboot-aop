@@ -9,8 +9,8 @@ public class Man implements Person{
 		
 		// 業務邏輯
 		System.out.println("Man 上班工作");
+		
 		// 公用邏輯
-
 		//System.out.println("回家脫口罩");
 
 	}
