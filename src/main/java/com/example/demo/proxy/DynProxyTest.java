@@ -10,6 +10,5 @@ public class DynProxyTest {
 		System.out.println(calc.add(10,20));
 		System.out.println(calc.add(null,20));
 		System.out.println(calc.div(10,0));
-
 	}
 }
